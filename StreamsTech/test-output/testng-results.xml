@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T13:49:48 BDT" name="Default suite" finished-at="2023-10-04T13:51:06 BDT" duration-ms="77478">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T13:49:48 BDT" name="Default test" finished-at="2023-10-04T13:51:06 BDT" duration-ms="77478">
+      <class name="com.rifat.FirstAutomation">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.rifat.FirstAutomation@723ca036]" started-at="2023-10-04T13:49:41 BDT" name="startBrowser" finished-at="2023-10-04T13:49:48 BDT" duration-ms="7190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="openUrl()[pri:0, instance:com.rifat.FirstAutomation@723ca036]" started-at="2023-10-04T13:49:48 BDT" name="openUrl" finished-at="2023-10-04T13:51:06 BDT" duration-ms="77448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.rifat.FirstAutomation@723ca036]" started-at="2023-10-04T13:51:06 BDT" name="close" finished-at="2023-10-04T13:51:06 BDT" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.rifat.FirstAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
